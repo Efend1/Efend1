@@ -2,7 +2,7 @@
 <h3 align="center">Someone who is interested in web programming but is still new to it</h3>
 
 - 🌱 I’m currently learning **javascript, php
-React, Vue, Laravel**
+React, Vue, Laravel**
 
 - ⚡ Fun fact **Nothing fun**
 - **Beginer**
