@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Efendi</h1>
 <h3 align="center">Someone who is interested in web programming but is still new to it</h3>
-<h3 align="center">Beginer</h3>
 
-- 🌱 I’m currently learning **React, Vue, Laravel**
+- 🌱 I’m currently learning **javascript, php
+React, Vue, Laravel**
 
 - ⚡ Fun fact **Nothing fun**
+- **Beginer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
