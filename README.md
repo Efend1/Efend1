@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **javascript, php** <!--React, Vue, Laravel** -->
 
 - ⚡ Fun fact **Nothing fun**
+- Coding On **Phone**
 - **Beginer**
 
 <h3 align="left">Connect with me:</h3>
